@@ -1,0 +1,30 @@
+{
+	"name" : "Romanian translation",
+	"description" : "Romanian translation of Heroes of Might and Magic III: Complete Edition",
+	"version" : "1.0.0",
+	"author" : "",
+	"contact" : "",
+	"language" : "romanian",
+	"modType" : "Translation",
+	"compatibility" :
+	{
+		"min" : "1.7.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"german" : {
+		"name" : "Rumänische Übersetzung",
+		"description" : "Rumänische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+	},
+	"romanian" : {
+		"name" : "Traducere în română",
+		"description" : "Traducere în română a lui Heroes of Might and Magic III: Complete Edition"	
+	},
+	"translations" : [
+		"config/vcmi-romanian/game.json",
+		"config/vcmi-romanian/maps.json",
+		"config/vcmi-romanian/campaigns.json"
+	]
+}
