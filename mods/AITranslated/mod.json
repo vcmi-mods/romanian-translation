@@ -1,0 +1,15 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Fabrice TIERCELIN",
+	"contact" : "https://github.com/Fabrice-TIERCELIN",
+	"language" : "romanian",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-romanian-ai/campaigns.json",
+		"config/vcmi-romanian-ai/game.json",
+		"config/vcmi-romanian-ai/maps.json",
+		"config/vcmi-romanian-ai/chronicles.json"
+	]
+}
