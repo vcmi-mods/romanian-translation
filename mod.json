@@ -1,7 +1,7 @@
 {
 	"name" : "Romanian translation",
 	"description" : "Romanian translation of Heroes of Might and Magic III: Complete Edition; please report issues here: https://github.com/vcmi-mods/romanian-translation/issues",
-	"version" : "1.0.4",
+	"version" : "1.0.5",
 	"author" : "",
 	"contact" : "",
 	"language" : "romanian",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.5" : [ "Fixes and adjustments of text" ],
 		"1.0.4" : [ "Translation fixes and adjustments" ],
 		"1.0.3" : [ "Tweaks over the text and translation bugs fixed for some sentences" ],
 		"1.0.2" : [ "Initial translation of campaigns, chronicles, game, maps files in Romanian" ],
