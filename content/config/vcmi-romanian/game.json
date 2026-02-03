@@ -6489,7 +6489,7 @@
 	"spell.core.weakness.description.advanced" : "{Slăbiciune Avansat}\nReduce puterea de atac a unității inamice selectate. Efectul este dublu față de nivelul Începător.",
 	"spell.core.weakness.description.basic" : "{Slăbiciune Începător}\nReduce puterea de atac a unității inamice selectate.",
 	"spell.core.weakness.description.expert" : "{Slăbiciune Expert}\nReduce puterea de atac a tuturor unităților inamice. Efectul este dublu față de nivelul Începător.",
-	"spell.core.weakness.description.none" : "{Slăbiciune}\nReduce puterea de atac a unității inamice selectate."
+	"spell.core.weakness.description.none" : "{Slăbiciune}\nReduce puterea de atac a unității inamice selectate.",
 	"spell.core.weakness.name" : "Slăbiciune",
 	"terrain.core.dirt.name" : "Pământ",
 	"terrain.core.grass.name" : "Iarbă",
