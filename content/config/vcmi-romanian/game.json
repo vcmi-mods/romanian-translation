@@ -6408,7 +6408,7 @@
 	"spell.core.sacrifice.description.basic" : "{Sacrificiu Începător}\nDistruge un grup de creaturi prietenoase pentru a resuscita un grup mort. Numărul de unități înviate depinde de puterea magică și viața celor sacrificate.",
 	"spell.core.sacrifice.description.expert" : "{Sacrificiu Expert}\nDistruge un grup de creaturi prietenoase pentru a resuscita un grup mort. Numărul de unități înviate depinde de puterea magică și viața celor sacrificate. Restabilește mai multă viață decât nivelul Avansat.",
 	"spell.core.sacrifice.description.none" : "{Sacrificiu}\nDistruge un grup de creaturi prietenoase pentru a resuscita un grup mort. Numărul de unități înviate depinde de puterea magică și viața celor sacrificate.",
-	"spell.core.sacrifice.name" : "Sacrificiu"	
+	"spell.core.sacrifice.name" : "Sacrificiu",
 	"spell.core.scuttleBoat.description.advanced" : "{Scufundă Barca Avansat}\n\nDistruge o barcă pe care o deții. Folosește cu precauție, efectele sunt permanente.\n\nȘansele de succes sunt 75%.\n",
 	"spell.core.scuttleBoat.description.basic" : "{Scufundă Barca Începător}\n\nDistruge o barcă pe care o deții. Folosește cu precauție, efectele sunt permanente.\n\nȘansele de succes sunt 50%.\n",
 	"spell.core.scuttleBoat.description.expert" : "{Scufundă Barca Expert}\n\nDistruge o barcă pe care o deții. Folosește cu precauție, efectele sunt permanente.\n",
