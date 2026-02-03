@@ -1,7 +1,7 @@
 {
 	"name" : "Romanian translation",
 	"description" : "Romanian translation of Heroes of Might and Magic III: Complete Edition; please report issues here: https://github.com/vcmi-mods/romanian-translation/issues",
-	"version" : "1.0.6",
+	"version" : "1.0.7",
 	"author" : "",
 	"contact" : "",
 	"language" : "romanian",
@@ -10,6 +10,10 @@
 		"min" : "1.7.0"
 	},
 	"changelog" : {
+		"1.0.7" : [
+			"Fixed JSON format",
+			"Added JSON Validator + Formatter"
+		],
 		"1.0.6" : [
 			"Tweaks over the naming of town structures"
 		],
