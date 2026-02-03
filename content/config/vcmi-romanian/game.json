@@ -6116,7 +6116,7 @@
 	"skill.core.sorcery.description.advanced" : "{Vrăjitorie Avansat}\n\nCrește daunele vrăjilor eroului cu 10%.",
 	"skill.core.sorcery.description.basic" : "{Vrăjitorie Începător}\n\nCrește daunele vrăjilor eroului cu 5%.",
 	"skill.core.sorcery.description.expert" : "{Vrăjitorie Expert}\n\nCrește daunele vrăjilor eroului cu 15%.",
-	"skill.core.sorcery.name" : "Vrăjitorie"
+	"skill.core.sorcery.name" : "Vrăjitorie",
 	"skill.core.tactics.description.advanced" : "{Tactici Avansate}\n\nPermite rearanjarea trupelor înainte de luptă, la o distanță de cinci hexagoane de erou.",
 	"skill.core.tactics.description.basic" : "{Tactici Începător}\n\nPermite rearanjarea trupelor înainte de luptă, la o distanță de trei hexagoane de erou.",
 	"skill.core.tactics.description.expert" : "{Tactici Experte}\n\nPermite rearanjarea trupelor înainte de luptă, la o distanță de șapte hexagoane de erou.",
