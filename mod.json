@@ -6,27 +6,39 @@
 	"contact" : "",
 	"language" : "romanian",
 	"modType" : "Translation",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"changelog" : 
-	{ 
-		"1.0.6" : [ "Tweaks over the naming of town structures" ],
-		"1.0.5" : [ "Fixes and adjustments of text" ],
-		"1.0.4" : [ "Translation fixes and adjustments" ],
-		"1.0.3" : [ "Tweaks over the text and translation bugs fixed for some sentences" ],
-		"1.0.2" : [ "Initial translation of campaigns, chronicles, game, maps files in Romanian" ],
-		"1.0.1" : [ "Menu screens" ],
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.6" : [
+			"Tweaks over the naming of town structures"
+		],
+		"1.0.5" : [
+			"Fixes and adjustments of text"
+		],
+		"1.0.4" : [
+			"Translation fixes and adjustments"
+		],
+		"1.0.3" : [
+			"Tweaks over the text and translation bugs fixed for some sentences"
+		],
+		"1.0.2" : [
+			"Initial translation of campaigns, chronicles, game, maps files in Romanian"
+		],
+		"1.0.1" : [
+			"Menu screens"
+		],
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
 	"german" : {
 		"name" : "Rumänische Übersetzung",
-		"description" : "Rumänische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Rumänische Übersetzung von Heroes of Might and Magic III: Complete Edition"
 	},
 	"romanian" : {
 		"name" : "Traducere în română",
-		"description" : "Traducere în română a jocului Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Traducere în română a jocului Heroes of Might and Magic III: Complete Edition"
 	},
 	"translations" : [
 		"config/vcmi-romanian/game.json",
@@ -35,4 +47,3 @@
 		"config/vcmi-romanian/chronicles.json"
 	]
 }
-
