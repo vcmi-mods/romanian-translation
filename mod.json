@@ -12,7 +12,7 @@
 	},
 	"changelog" : 
 	{ 
-		"1.0.6" : [ "Tweaks over the naming of town structures" ]
+		"1.0.6" : [ "Tweaks over the naming of town structures" ],
 		"1.0.5" : [ "Fixes and adjustments of text" ],
 		"1.0.4" : [ "Translation fixes and adjustments" ],
 		"1.0.3" : [ "Tweaks over the text and translation bugs fixed for some sentences" ],
@@ -35,3 +35,4 @@
 		"config/vcmi-romanian/chronicles.json"
 	]
 }
+
